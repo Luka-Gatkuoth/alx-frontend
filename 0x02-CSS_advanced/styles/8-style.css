@@ -8,9 +8,9 @@
   --text-color: var(--color-black);
 
   /* line-height */
-  --line-height-small: 1.2rem;
-  --line-height-base: 1.5rem;
-  --line-height-big: 1.8rem;
+  --line-height-small: 1.2;
+  --line-height-base: 1.5;
+  --line-height-big: 1.8;
 
   /* font-family */
   --font-family-base: "Open Sans", "Helvetica Neue", Helvetica, Arial,
